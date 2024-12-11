@@ -487,4 +487,24 @@ display: none;
         .sql-caption {
             margin: 0vh;
         }
+         .contact-me {
+            position: relative;
+            top: 100px;
+        }
+        body {
+            overflow-x: hidden;
+        }
+        #icon i {
+            font-size: 15px;
+        }
+         #skills {
+            margin-left: 3px;
+            margin-bottom: 20px;
+        }
+        .ab-hello {
+            font-size: 40px;
+        }
+        .ab-content {
+            font-size: 15px;
+        }
     }
